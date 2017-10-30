@@ -1,0 +1,5 @@
+projectKey=hello.igate:MavenApplication
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/hello.igate:MavenApplication
+ceTaskId=AV9sGRRBTXUGKleJxcPo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV9sGRRBTXUGKleJxcPo
